@@ -1,5 +1,5 @@
 // ChessBuddy - Play chess with Go, HTML5, WebSockets and random strangers!
-//
+//kkkk
 // Copyright (c) 2012 by Christoph Hack <christoph@tux21b.org>
 // All rights reserved. Distributed under the Simplified BSD License.
 
