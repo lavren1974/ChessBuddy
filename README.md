@@ -15,7 +15,7 @@ Quick Start
 ChessBuddy is compatible with Go 1. Use the [go tool][3] to install the latest
 version of ChessBuddy with the following command:
 
-    go get github.com/tux21b/ChessBuddy
+    go get github.com/lavren1974/ChessBuddy
 
 This will install a new command `ChessBuddy` in your path (usually
 `$GOPATH/bin/ChessBuddy`). Start the HTTP server with the default arguments:
@@ -25,7 +25,7 @@ This will install a new command `ChessBuddy` in your path (usually
 Visit <http://localhost:8000/>, wait for a friend and start playing a game of
 chess.
 
-You can use `go get -u github.com/tux21b/ChessBuddy` to update ChessBuddy.
+You can use `go get -u github.com/lavren1974/ChessBuddy` to update ChessBuddy.
 
 
 Features
